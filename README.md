@@ -1,2 +1,2 @@
 # googleIT
-repo for GoogleIT automation 
+I am editing the README file. adding some more details about the project descrition. 
